@@ -2,6 +2,9 @@ The Online Dictionary Application is a web-based platform that allows users to s
 
 Tech Stack:
 Backend: Java, Spring Boot, REST APIs
+
 Database: MySQL
+
 Frontend: HTML, CSS, Bootstrap, JavaScript 
+
 Framework: Spring Tool Suite 
